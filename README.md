@@ -2,7 +2,7 @@
 A hex bolt with modeled threads. It was made in Onshape as my first CAD project.
 
 ## About:
-For this project I wanted to become comfortable using the fundamental tools in CAD. I researched thread depth, pitch and used the standar recommended values for size and pitch. Then I modelled the bolt to practise sketching, extruding, revolving, sweep & helix.
+For this project I wanted to become comfortable using the fundamental tools in CAD. I researched thread depth, pitch and used the standard recommended values for size and pitch. Then I modelled the bolt to practise sketching, extruding, revolving, sweep & helix.
 
 ## Specifications/dimensions:
 - Thread: 1/4" -28 (UNF), 28 threads per inch, with 1/28" pitch
